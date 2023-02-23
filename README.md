@@ -12,7 +12,7 @@
  
 ## About me:
 
-Hi i am machine learning and IOT engineer from india
+Hi i am machine learning from india
 i have create various projects on IOT and machine learning using various microcontroller like arduino, esp8266 , esp32 ,raspberry-pi,etc.using languages like c++ and python. i have made machine learning projects based on computer vision using python,opencv,pytorch,tensroflow and various tools.
 
 
