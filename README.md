@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif" width="80" align="right"/>
 </h1> 
 
-## I am Ayush Vaidande a Machine learning and IOT engineer from india   
+## I am Ayush Vaidande a Machine learning from india   
  i am studying in shivajirao jhondale college of engineering (Mumbai University)
  
 ## About me:
