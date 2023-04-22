@@ -12,9 +12,7 @@
  
 ## About me:
 
-Hi i am machine learning from india
-i have create various projects on IOT and machine learning using various microcontroller like arduino, esp8266 , esp32 ,raspberry-pi,etc.using languages like c++ and python. i have made machine learning projects based on computer vision using python,opencv,pytorch,tensroflow and various tools.
-
+I am a machine learning enthusiast from India, proficient in creating diverse projects on the Internet of Things (IoT) and machine learning. I have extensive experience working with popular microcontrollers such as Arduino, ESP8266, ESP32, Raspberry Pi, etc., and I am skilled in programming languages such as C++ and Python. My expertise lies in creating machine learning projects centered around computer vision using a range of tools, including Python, OpenCV, PyTorch, and TensorFlow.
 
 
 
