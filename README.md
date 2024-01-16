@@ -1,6 +1,6 @@
  ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white&align="right")
 <h1>
-  hey there
+  hey there, I am Ayush Ravindra Vaidande
   
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
