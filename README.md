@@ -12,7 +12,7 @@
  
 ## About me:
 
-I am a Artificial Intelligence engineer from India, proficient in creating diverse projects on the Artificial intelligence learning, Data Analytics and Internet of things. I have extensive experience working with popular microcontrollers such as Arduino, ESP8266, ESP32, Raspberry Pi, etc., and I am skilled in programming languages such as C++ and Python. My expertise lies in creating Artificial intelligence projects centered around computer vision using a range of tools, including Python, OpenCV, PyTorch, and TensorFlow.
+I am Ayush Ravindra Vaidande an Artificial Intelligence engineer from India, proficient in creating diverse projects on the Artificial intelligence learning, Data Analytics and Internet of things. I have extensive experience working with popular microcontrollers such as Arduino, ESP8266, ESP32, Raspberry Pi, etc., and I am skilled in programming languages such as C++ and Python. My expertise lies in creating Artificial intelligence projects centered around computer vision using a range of tools, including Python, OpenCV, PyTorch, and TensorFlow.
 
 
 
