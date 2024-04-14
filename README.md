@@ -7,15 +7,15 @@
   <img src="https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif" width="80" align="right"/>
 </h1> 
 
-## Hi👋, I am Artificial Intelligence engineer from India 🇮🇳   
+## Hi👋, I am Artificial Intelligence Enthusiast from India 🇮🇳   
  i am studying in shivajirao jhondale college of engineering (Mumbai University)
  
 ## About me:
 
-I am Ayush Ravindra Vaidande, a driven Deep Learning Engineer with a Bachelor's in Electronics and Telecommunication (specializing in AI and ML). My journey at Shivajirao Jondhale College of Engineering included hands-on projects in Deep Learning, NLP, and Computer Vision. Proficient in Python, I have both theoretical and practical AI skills. Internships in Data Analytics and ML honed my abilities. My final project involved developing a Fine-tuned Llama 2 7B with Therapy Dataset, showcasing my commitment to language modeling. Eager to apply my skills professionally, I'm keen on contributing to innovative projects. 
-During my academic pursuits, I undertook internships in Data Analytics, Machine Learning, and Python, refining my skills and gaining valuable industry exposure. My keen interest in large language models culminated in my final year project, where I developed "Fine-tuned Llama 2 7B with Therapy Dataset." This project not only showcased my proficiency but also demonstrated my commitment to pushing the boundaries of language modeling.
 
-Passionate about the intersection of technology and language, I am eager to apply my skills in a professional setting, contributing to innovative projects and furthering my expertise in the field of Deep Learning and AI. 
+I am Ayush Ravindra Vaidande, a dedicated Deep Learning Engineer holding a Bachelor's degree in Electronics and Telecommunication, with a specialization in AI and ML. Throughout my journey at Shivajirao Jondhale College of Engineering, I immersed myself in projects spanning Deep Learning, NLP, and Computer Vision. My expertise extends to electronics, including ESP32, Arduino, ESP8266, Raspberry Pi, and various IoT sensors. Proficient in Python, I possess both theoretical knowledge and practical skills in AI. Internships in Data Analytics and ML further polished my abilities. Notably, my final project involved developing a Fine-tuned Llama 2 7B with Therapy Dataset, showcasing my dedication to language modeling. My academic endeavors were complemented by internships in Data Analytics, Machine Learning, and Python, providing me with industry exposure and refining my skills. The culmination of my interests led to my final year project, "Fine-tuned Llama 2 7B with Therapy Dataset," which not only demonstrated my proficiency but also underscored my commitment to pushing language modeling boundaries.
+
+Driven by a passion for the convergence of technology and language, I am excited to apply my expertise in a professional setting. I am eager to contribute to innovative projects and continue expanding my knowledge in the realm of Deep Learning and AI.
 
 
 
